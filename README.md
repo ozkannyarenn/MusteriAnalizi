@@ -1,10 +1,10 @@
 # RFM
 
-#RFM Analizi Nedir?
+# RFM Analizi Nedir?
 RFM analizi, veri odaklı müşteri davranışlarını inceleyen popüler bir segmentasyon tekniğidir.
 Bu analize göre bir sınıflandırma yapılır ve sınıflandırmalara bakılarak özel pazarlama stratejileri geliştirilebilir.
 
-#RFM Açılımı
+# RFM Açılımı
 Recency — Yenilik (R)
 Frequency — Sıklık (F)
 Monetary — Parasal Değer (M)
